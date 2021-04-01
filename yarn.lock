@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@exodus/elliptic@3.0.3-dcr.1":
+"@exodus/elliptic@https://github.com/ExodusMovement/elliptic#3.0.3":
   version "3.0.3-dcr.1"
-  resolved "https://registry.yarnpkg.com/@exodus/elliptic/-/elliptic-3.0.3-dcr.1.tgz#58a8f4f7f45a9a963fba2055259858a3221c8974"
-  integrity sha512-8zpsmdrUFzuqtLLnK9Yp7Nl3NmTkiEhilt4sVIRj5bsobmjyKYbc0mdye1VBJ/Ss9wwZXjqki605zROd+pg0JQ==
+  uid b570cfd2f312dc6922109a2356b3f3853afd888a
+  resolved "https://github.com/ExodusMovement/elliptic#b570cfd2f312dc6922109a2356b3f3853afd888a"
   dependencies:
     brorand "1.1.0"
     hash.js "1.1.5"
@@ -941,9 +941,9 @@ wrappy@1:
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yargs-parser@13.1.2, yargs-parser@^13.1.2:
   version "13.1.2"
